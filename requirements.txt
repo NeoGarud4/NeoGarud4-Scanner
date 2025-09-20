@@ -1,0 +1,6 @@
+requests
+colorama
+prettytable
+python-whois
+reportlab
+dnspython
