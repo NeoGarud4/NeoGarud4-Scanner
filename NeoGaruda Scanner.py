@@ -133,7 +133,7 @@ def detect_cms(url):
     return cms
 
 # ===============================
-# BASIC SQLi CHECK
+# SQLi CHECK
 # ===============================
 def check_sqli(url):
     payload = "' OR '1'='1"
