@@ -1,1 +1,7 @@
-📜 requirements.txt
+requirements.txt
+requests
+colorama
+prettytable
+python-whois
+reportlab
+dnspython
